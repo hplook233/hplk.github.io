@@ -7,6 +7,7 @@
  <p><a href="https://www.ixigua.com/home/3403741211923960">我的西瓜视频主页</a> </p>
  <p><a href="https://www.douyin.com/user/MS4wLjABAAAAf98kxiT-ACqZQF5YUwG7BtUsJ_fKOxzjOnZdRK8gEyc">我的抖音主页</a> </p>
  <p><a href="https://www.kuaishou.com/profile/3xqsvaj6iqrvsfc">我的快手主页</a> </p>
+ <p><a href="https://weibo.com/u/7604920162">我的微博主页</a> </p>
  <p><i> 可右键打开或直接点开以上网址 </i></p>
 <p><code>b站的镇站之宝</code><br><br></p>
  <p><code><a href="https://www.bilibili.com/video/BV1GJ411x7h7?from=search&seid=4944884504655420596">一</a></code><br><br></p>
