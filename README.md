@@ -6,6 +6,13 @@
  <p><a href="https://hplook233.github.io">主页</a> </p><p><a href="https://hplook233.github.io/hplk.github.io/">备份页（此页）</a></p>
 <p>我的头像:</p>
 <p>eeeeeeeeee<img src="https://raw.githubusercontent.com/hplook233/hplk.github.io/master/photos/touxiang.jpg" alt="Pulpit roke" width="160" height="160" alt="我的头像">eeeeeeeeee</p>
+<hr>
+ <p>一些歌曲</p>
+ <p>1.Josh Vietti - A Thousand Miles</p>
+ <audio controls>
+ <source src="https://raw.githubusercontent.com/hplook233/hplook233.github.io/main/Josh%20Vietti%20-%20A%20Thousand%20Miles.mp3" type="audio/mpeg">
+ </audio> 
+ <hr>
  <p>链接可直接打开</p>
 <br>
  <p><a href="https://space.bilibili.com/474005040" target="_blank">我的b站主页</a> </p>
